@@ -5,6 +5,7 @@ let deposit = true;
 let mission = 10000;
 let period = 12;
 let budgetDay = money / 20;
+let x;
 
 console.log(typeof (deposit));
 console.log(typeof (income));
